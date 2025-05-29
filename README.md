@@ -15,5 +15,5 @@ Manual test cases for the OrangeHRM application, focusing on the Leave module.
 - Retesting
 
 ##  Folders
-   /test_cases  – Excel files with positive and negative test cases
-   /bug_reports  – Sample defect reports (optional)
+    test_cases  – Excel files with positive and negative test cases
+    bug_reports  – Defect reports 
