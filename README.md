@@ -2,7 +2,7 @@
 Manual test cases for the OrangeHRM application, focusing on the Leave module.
 
 ## Modules Covered
-- login and password
+- login and forgot password
 - Apply Leave
 - My Leave
 - Leave List
